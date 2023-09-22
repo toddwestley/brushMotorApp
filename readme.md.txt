@@ -1,0 +1,2 @@
+I am trying to learn C#.
+I wrote an application that based on a motor's data sheet shows how the motor will perform under various conditions through using a simple method and alternatively the Runge-Kutta IV method.
