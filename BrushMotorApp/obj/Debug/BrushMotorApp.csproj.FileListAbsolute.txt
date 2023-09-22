@@ -1,0 +1,14 @@
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\bin\Debug\BrushMotorApp.exe
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\bin\Debug\BrushMotorApp.pdb
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\obj\Debug\BrushMotorApp.csproj.AssemblyReference.cache
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\obj\Debug\BrushMotorApp.csproj.ResolveComReference.cache
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\obj\Debug\BrushMotorApp.Properties.Resources.resources
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\obj\Debug\BrushMotorApp.csproj.GenerateResource.cache
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\obj\Debug\BrushMotorApp.csproj.CoreCompileInputs.cache
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\obj\Debug\BrushMotorApp.exe
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\obj\Debug\BrushMotorApp.pdb
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\obj\Debug\BrushMotorApp.revolutions.resources
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\bin\Debug\BrushMotorApp.exe.manifest
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\bin\Debug\BrushMotorApp.application
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\obj\Debug\BrushMotorApp.exe.manifest
+C:\Users\Todd Westley\BrushMotorApplication\BrushMotorApp\obj\Debug\BrushMotorApp.application
